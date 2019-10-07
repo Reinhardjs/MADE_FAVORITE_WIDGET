@@ -26,7 +26,7 @@ internal class StackRemoteViewsFactory(private val mContext: Context) : RemoteVi
 
         favoriteEntities = ArrayList()
 
-        val selectionArgs: Array<String> = arrayOf("-123", "movies")
+        val selectionArgs: Array<String> = arrayOf("-123", "movies&tvshows")
         val projection = arrayOf(Contract.AUTHORITY)
 
         val cursor = mContext.contentResolver.query(
