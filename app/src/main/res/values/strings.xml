@@ -37,6 +37,4 @@
     <string name="content_text">Have you check your movie today?</string>
     <string name="new_released_text"> has been released today</string>
     <string name="reminder_settings">Reminder Settings</string>
-    <string name="favorite_film" translatable="false">My Favorite Film</string>
-    <string name="no_favorite" translatable="false">No Favorite</string>
 </resources>
