@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MADE FAV WIDGET</string>
+    <string name="app_name">MADE FAV CONSUMER</string>
 
     <string name="toolbar_title">Daftar Film</string>
     <string name="reminder_toolbar_title">Pengaturan Pengingat</string>
